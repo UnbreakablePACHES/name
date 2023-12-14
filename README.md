@@ -28,7 +28,7 @@ More information can be found in: https://arxiv.org/abs/2205.13504
 ## Get Started
 1. Install Python >= 3.7
 2. Install requirements.txt
-3. Run DLinear - UC:AirQuality.ipynb or DLinear - UC:Electricity.ipynb
+3. Run DLinear  ~.ipynb
 
 ## Requirements
 - tqdm==4.62.3
