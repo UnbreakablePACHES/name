@@ -23,7 +23,7 @@ More information can be found in: https://arxiv.org/abs/2205.13504
 
 1. Electricity demand dataset
 2. Air-Quality dataset (CO & NO$_2$)
-3. iShares MSCI Emerging Markets ETF
+3. EEM EFA JPXN SPY XLK
 
 ## Get Started
 1. Install Python >= 3.7
